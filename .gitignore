@@ -1,4 +1,4 @@
-# Logs
+mongoose.set('useCreateIndex', true);# Logs
 logs
 *.log
 npm-debug.log*
